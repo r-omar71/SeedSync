@@ -52,6 +52,9 @@ Greenhouse owners rely heavily on manual monitoring to maintain optimal growing 
 ![Sensor Dashboard](designs/high-fidelity/sensor-dashboard.png)
 ![Motor Control](designs/high-fidelity/motor-dashboard.png)
 
+## Full Documentation
+For a detailed project report, see [SeedSync Full Report](docs/SeedSync_Report.pdf)
+
 ## Course Context
 Developed for **CCSW-225 – Human Computer Interaction**  
 University of Jeddah, 2025
