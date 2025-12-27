@@ -50,6 +50,7 @@ Greenhouse owners rely heavily on manual monitoring to maintain optimal growing 
 
 ### High-Fidelity Prototype
 ![Sensor Dashboard](designs/high-fidelity/sensor-dashboard.png)
+![Motor Control](designs/high-fidelity/motor-dashboard.png)
 
 ## Course Context
 Developed for **CCSW-225 – Human Computer Interaction**  
