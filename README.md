@@ -35,7 +35,7 @@ Greenhouse owners rely heavily on manual monitoring to maintain optimal growing 
 ## Design Prototypes
 - Low-fidelity wireframes
 - High-fidelity interactive designs  
-🔗 Figma Prototype: [(https://www.figma.com/design/coRQ80n2HJ1Midos33r95y/SeedSync?node-id=0-1&t=U98KQ90GIQ5qQjGX-1)]
+🔗 Figma Prototype: (https://www.figma.com/design/coRQ80n2HJ1Midos33r95y/SeedSync?node-id=0-1&t=U98KQ90GIQ5qQjGX-1)
 
 ## My Role
 - UX research and interaction design
